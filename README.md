@@ -3,35 +3,55 @@
 
 ---
 
-### 🚀 About Me
+## 🚀 About Me
 
-- 🔭 I’m currently working on **Quantum Cryptography Simulator**  
-  👉 https://github.com/ShriramNarkhede/Quantum_Cryptography_Simulator
-
-- 🌱 I’m currently learning **LlamaIndex & LangChain**
-
-- 👯 I’m looking to collaborate on **Student Mental Health Chatbot projects**
-
-- 🤝 I’m looking for help with **Women Safety App (Wear OS + Android)**  
-  👉 https://github.com/ShriramNarkhede/womenSafetyApp.git
-
-- 👨‍💻 All of my projects are available at  
-  👉 **Portfolio:** https://iamshriram.vercel.app/
-
-- 📝 I write technical blogs at  
-  👉 https://shriramsblog4.wordpress.com/
-
-- 💬 Ask me about  
-  **JavaScript, Android, Java, Flutter, Python, Node.js, Payload CMS, Data Science, WordPress, DSA**
-
-- 📫 Reach me at **shreeramnarkhede@gmail.com**
-
-- 📄 **Resume:**  
-  👉 https://drive.google.com/file/d/1kUzSb38Jitnpqxr_R1sHNbRmzDkxGLFI/view
-
-- ⚡ Fun fact: **My code runs perfectly… until it doesn’t.**
+Software Developer passionate about building **AI-powered systems, scalable backends, and real-time applications**.  
+Strong foundation in **distributed systems, databases, and applied cryptography**.
 
 ---
+
+### 🧠 What I’m Working On
+- 🔐 Quantum Safe Communication :- 
+  https://github.com/ShriramNarkhede/Quantum_Cryptography_Simulator 
+
+- 🤖 Exploring **LlamaIndex & LangChain** for AI applications  
+
+---
+
+### 🚀 Featured Projects
+- 📬 AI Email Aggregation Platform (RAG-based system)  
+- 🔐 End-to-End Encrypted Messaging System  
+- 📊 SaaS Email Campaign Management Tool  
+
+👉 Portfolio: https://shrii.me
+
+---
+
+### 🛠 Tech Stack
+**Languages:** JavaScript, TypeScript, Python, Java, C++  
+**Backend:** Node.js, Express.js, REST APIs, Socket.IO  
+**Frontend:** React.js, Next.js, Tailwind CSS  
+**Database:** PostgreSQL, MongoDB  
+**DevOps & Tools:** Docker, Git, Postman  
+
+---
+
+### 🤝 Open to Collaborate
+- AI/ML projects  
+- Backend systems  
+- Developer tools & SaaS products  
+
+---
+
+
+### 📫 Contact Me
+- Email: shreeramnarkhede@gmail.com  
+- LinkedIn: https://www.linkedin.com/in/shriramnarkhede/  
+
+---
+
+### ⚡ Fun Fact
+My code works flawlessly… right until demo time 😄
 
 ### 🛠️ Languages & Tools
 
